@@ -1,0 +1,23 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.list li i {
+    cursor: pointer;
+    color: red;
+}
+
+.add-item {
+    cursor: pointer;
+}
+
+.accordion {
+    margin: 0;
+    padding: 0;
+}
+
